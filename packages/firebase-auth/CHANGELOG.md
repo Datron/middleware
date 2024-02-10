@@ -1,5 +1,11 @@
 # @hono/firebase-auth
 
+## 1.4.0
+
+### Minor Changes
+
+- [`3c71e73e45fe6f7ca3cb74fffc5fbc341599edb4`](https://github.com/honojs/middleware/commit/3c71e73e45fe6f7ca3cb74fffc5fbc341599edb4) Thanks [@Datron](https://github.com/Datron)! - Allow cookies to be used instead of headers for providing firebase auth token
+
 ## 1.3.4
 
 ### Patch Changes
